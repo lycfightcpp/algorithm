@@ -1,2 +1,2 @@
 # algorithm
-add sort algorithm
+add sort algorithms
